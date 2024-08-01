@@ -5,8 +5,7 @@ This repository contains Python code for various AI/ML tasks. The tasks covered 
 
 1. **Even Number Sum Calculation**: A function that calculates the sum of even numbers from a user-provided list of integers.
 2. **Word Frequency Counter**: A function that counts the frequency of each word in a given input text.
-
-Additionally, there's a simple linear regression model for predicting house prices based on square footage.
+3. **Simple Linear Regression Model:** For predicting house prices based on square footage.
 
 ## Task Descriptions
 
